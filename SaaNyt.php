@@ -1,3 +1,3 @@
 <?php
-$SaaNyt = "Aurinko,Sade,Pilvinen";
+$SaaNyt = "Aurinko,Sade,Pilvinen,Myrsky";
 ?>
